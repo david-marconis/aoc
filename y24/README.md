@@ -8,12 +8,12 @@ Input files must be placed in a directory named `res` next to the `src` director
 │   ...
 │   └── day25.txt
 └── src
-    ├── day1.go
+    ├── 1/main.go
     ...
-    └── day25.go
+    └── 25/main.go
 ```
 
 ## How to run
 ```sh
-go run src/day1.go
+go run src/1/main.go
 ```
